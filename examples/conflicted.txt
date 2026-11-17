@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+theme = "dark"
+=======
+theme = "light"
+>>>>>>> feature/theme
